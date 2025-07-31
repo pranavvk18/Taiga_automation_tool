@@ -1,0 +1,10 @@
+# requirements.txt
+
+langchain==0.1.0
+langchain-google-genai==1.0.1
+langchain-core==0.1.0
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+tenacity==8.2.3
+structlog==23.2.0
